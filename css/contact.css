@@ -1,0 +1,13 @@
+.contact-content{
+    height: 395px;
+    height: 80vh;
+    margin-top: 32px;
+    background-color: rgb(230, 234, 234);
+    padding: 9px;
+    position: relative;
+    overflow: hidden;
+}
+
+.contact-form{
+    
+}
